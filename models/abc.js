@@ -1,5 +1,5 @@
 var ABC = function (){
     this.A = '';
-    this.B = '';
+    this.B = 'rtyf';
     this.C = '';
 }
